@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "33a511c030d6b91db66abe5c4f2de00e",
+    "revision": "50b4167af20a40caab773e92a136e562",
     "url": "/challenges-pets/index.html"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/challenges-pets/static/js/2.1230f0f9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "81f660b7ec35292a2823",
-    "url": "/challenges-pets/static/js/main.6bace7d0.chunk.js"
+    "revision": "6f91330db77695b40ec6",
+    "url": "/challenges-pets/static/js/main.99a71993.chunk.js"
   },
   {
     "revision": "35cb80e828421db5c6f8",
