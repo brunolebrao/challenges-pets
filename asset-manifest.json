@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/challenges-pets/static/js/main.bc5fa848.chunk.js",
-    "main.js.map": "/challenges-pets/static/js/main.bc5fa848.chunk.js.map",
+    "main.js": "/challenges-pets/static/js/main.6bace7d0.chunk.js",
+    "main.js.map": "/challenges-pets/static/js/main.6bace7d0.chunk.js.map",
     "runtime-main.js": "/challenges-pets/static/js/runtime-main.0a9bae8b.js",
     "runtime-main.js.map": "/challenges-pets/static/js/runtime-main.0a9bae8b.js.map",
     "static/css/2.d4e7eff5.chunk.css": "/challenges-pets/static/css/2.d4e7eff5.chunk.css",
     "static/js/2.1230f0f9.chunk.js": "/challenges-pets/static/js/2.1230f0f9.chunk.js",
     "static/js/2.1230f0f9.chunk.js.map": "/challenges-pets/static/js/2.1230f0f9.chunk.js.map",
     "index.html": "/challenges-pets/index.html",
-    "precache-manifest.285f4e3d2e0dc3ebc81951186b488335.js": "/challenges-pets/precache-manifest.285f4e3d2e0dc3ebc81951186b488335.js",
+    "precache-manifest.03446b1319252306ab6965208c162549.js": "/challenges-pets/precache-manifest.03446b1319252306ab6965208c162549.js",
     "service-worker.js": "/challenges-pets/service-worker.js",
     "static/css/2.d4e7eff5.chunk.css.map": "/challenges-pets/static/css/2.d4e7eff5.chunk.css.map",
     "static/js/2.1230f0f9.chunk.js.LICENSE.txt": "/challenges-pets/static/js/2.1230f0f9.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.0a9bae8b.js",
     "static/css/2.d4e7eff5.chunk.css",
     "static/js/2.1230f0f9.chunk.js",
-    "static/js/main.bc5fa848.chunk.js"
+    "static/js/main.6bace7d0.chunk.js"
   ]
 }
